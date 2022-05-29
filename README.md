@@ -6,5 +6,5 @@
 - ⚡ Fun fact: Im really good at hide and seek, they still have not found me...
 
 
-[!(https://github-profile-trophy.vercel.app/?username=Bigfoot9999&theme=onedark)]
+[!(https://github-profile-trophy.vercel.app/?username=Bigfoot9999&theme=onedark)]()
 
