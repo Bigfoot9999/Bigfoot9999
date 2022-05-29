@@ -4,5 +4,7 @@
 - 🌱 I’m currently learning html/css
 - 📫 How to reach me: Discord: Bigfoot#9033, Email: Bigfoot@officialbigfoot.tk
 - ⚡ Fun fact: Im really good at hide and seek, they still have not found me...
- [![trophy](https://github-profile-trophy.vercel.app/?username=Bigfoot9999&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+(https://github-profile-trophy.vercel.app/?username=Bigfoot9999&theme=onedark)
 
