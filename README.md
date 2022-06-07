@@ -9,5 +9,4 @@
 <img src="https://komarev.com/ghpvc/?username=Bigfoot9999&label=Profile Visitors&color=001eff&style=flat" alt="Bigfoot9999" /> 
 
 
-[![](https://github-profile-trophy.vercel.app/?username=Bigfoot9999&theme=onedark)]()
 
