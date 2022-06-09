@@ -1,7 +1,6 @@
 ### Bigfoot says hello👋
 <div align="center">
-<a href="https://discord.gg/JYQ4n8DBKM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="44yAbMWbHb" height="30" width="40" /></a>
-<h3>Languages</h3>
+  <h3>Languages</h3>
   <img src="https://skillicons.dev/icons?i=js,html,css,python,bash,java&perline=6">
 <img src="https://komarev.com/ghpvc/?username=Bigfoot9999&label=Profile Visitors&color=001eff&style=flat" alt="Bigfoot9999" /> 
 
