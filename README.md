@@ -1,4 +1,3 @@
-<iframe src="https://discord.com/widget?id=829117322223812658&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <div align="center">
 
 <a href="https://bgs.pages.dev"><img src="http://bgs.pages.dev"/></a>
