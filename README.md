@@ -1,5 +1,5 @@
 <div align="center">
-
+<iframe src="https://discord.com/widget?id=829117322223812658&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <a href="https://bgs.pages.dev"><img src="http://www.animated-gifs.fr/category_horror/bigfoot-1/0009.gif"/></a>
   <h1>Bigfoot9999, Founder of Bigfoot's Game Shack</h1>
   <img src="https://komarev.com/ghpvc/?username=Bigfoot9999&label=Profile Visitors&color=001eff&style=flat" alt="Bigfoot9999" /> <br>
