@@ -1,6 +1,7 @@
 <div align="center">
 
-  <h1>Founder of Bigfoot's Game Shack, Co-Owner of Interstellar Games</h1>
+  <h1>Founder of Bigfoot's Game Shack <br>
+  Co-Owner of Interstellar Games</h1>
 
   <img src="https://skillicons.dev/icons?i=js,html,css,python,linux,netlify,java,cloudflare,codepen,gcp,github,git&perline=6"><br>
 
