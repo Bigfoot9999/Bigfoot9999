@@ -1,4 +1,3 @@
-[![Watch the video](https://i.ytimg.com/an_webp/fjrGIxE0L6A/mqdefault_6s.webp?du=3000&sqp=CLDQ9J4G&rs=AOn4CLDXQ0d6JRSZdirfb9QVCYuGIt84cg)](https://youtu.be/fjrGIxE0L6A)
 
 
 <div align="center">
